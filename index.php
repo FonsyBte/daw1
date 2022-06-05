@@ -1,3 +1,4 @@
 <?php
-echo "Hola majo";
+echo "Hola majo\n";
+echo "Esto es una prueba";
 ?>
